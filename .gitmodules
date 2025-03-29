@@ -1,0 +1,9 @@
+[submodule "xinfra/xinfra/istory-infra"]
+	path = xinfra/xinfra/istory-infra
+	url = https://github.com/rlddldl/istory-infra.git
+[submodule "xinfra/istory-platform"]
+	path = xinfra/istory-platform
+	url = https://github.com/rlddldl/istory-platform.git
+[submodule "xinfra/istory-infra"]
+	path = xinfra/istory-infra
+	url = https://github.com/rlddldl/istory-infra.git
